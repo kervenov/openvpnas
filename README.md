@@ -1,4 +1,4 @@
-wget https://raw.githubusercontent.com/kervenov/repo/main/install.sh
+wget https://raw.githubusercontent.com/kervenov/openvpnas/main/install.sh
 
 chmod +x install.sh
 
